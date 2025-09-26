@@ -1,5 +1,5 @@
 {
-  "name": "Dumb Address Book",
+  "name": "Simple Address Book",
   "short_name": "AddressBook",
   "start_url": "./index.html",
   "display": "standalone",

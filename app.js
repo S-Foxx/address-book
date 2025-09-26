@@ -11,7 +11,7 @@
       vm.countries = [];
       vm.error = '';
 
-      // Search + filter predicate (single, dumb function)
+      // Search + filter predicate (single, simple function)
       vm.predicate = function (item) {
         // country filter
         if (vm.countryFilter && item.Country !== vm.countryFilter) return false;
